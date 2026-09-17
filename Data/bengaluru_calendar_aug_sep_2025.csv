@@ -1,0 +1,62 @@
+date,day_of_week,month,day,week_of_year,is_weekend,public_holiday,is_public_holiday,major_city_event,is_major_city_event,is_working_day_proxy,is_day_before_public_holiday,is_day_after_public_holiday,holiday_source,event_source
+2025-08-01,Friday,August,1,31,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-02,Saturday,August,2,31,1,,0,,0,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-03,Sunday,August,3,31,1,,0,,0,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-04,Monday,August,4,32,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-05,Tuesday,August,5,32,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-06,Wednesday,August,6,32,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-07,Thursday,August,7,32,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-08,Friday,August,8,32,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-09,Saturday,August,9,32,1,,0,,0,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-10,Sunday,August,10,32,1,,0,,0,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-11,Monday,August,11,33,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-12,Tuesday,August,12,33,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-13,Wednesday,August,13,33,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-14,Thursday,August,14,33,0,,0,,0,1,1,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-15,Friday,August,15,33,0,Independence Day,1,,0,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-16,Saturday,August,16,33,1,,0,,0,0,0,1,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-17,Sunday,August,17,33,1,,0,,0,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-18,Monday,August,18,34,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-19,Tuesday,August,19,34,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-20,Wednesday,August,20,34,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-21,Thursday,August,21,34,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-22,Friday,August,22,34,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-23,Saturday,August,23,34,1,,0,,0,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-24,Sunday,August,24,34,1,,0,,0,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-25,Monday,August,25,35,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-26,Tuesday,August,26,35,0,,0,,0,1,1,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-08-27,Wednesday,August,27,35,0,Varasiddhi Vinayaka Vrata (Ganesh Chaturthi),1,Bengaluru Ganesh Utsava (Basavanagudi),1,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-ganesh-utsava-starts-on-august-27-at-basavanagudi/articleshow/123438699.cms
+2025-08-28,Thursday,August,28,35,0,,0,Bengaluru Ganesh Utsava (Basavanagudi),1,1,0,1,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-ganesh-utsava-starts-on-august-27-at-basavanagudi/articleshow/123438699.cms
+2025-08-29,Friday,August,29,35,0,,0,Bengaluru Ganesh Utsava (Basavanagudi),1,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-ganesh-utsava-starts-on-august-27-at-basavanagudi/articleshow/123438699.cms
+2025-08-30,Saturday,August,30,35,1,,0,Bengaluru Ganesh Utsava (Basavanagudi),1,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-ganesh-utsava-starts-on-august-27-at-basavanagudi/articleshow/123438699.cms
+2025-08-31,Sunday,August,31,35,1,,0,Bengaluru Ganesh Utsava (Basavanagudi),1,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-ganesh-utsava-starts-on-august-27-at-basavanagudi/articleshow/123438699.cms
+2025-09-01,Monday,September,1,36,0,,0,Bengaluru Ganesh Utsava (Basavanagudi),1,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-ganesh-utsava-starts-on-august-27-at-basavanagudi/articleshow/123438699.cms
+2025-09-02,Tuesday,September,2,36,0,,0,Bengaluru Ganesh Utsava (Basavanagudi),1,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-ganesh-utsava-starts-on-august-27-at-basavanagudi/articleshow/123438699.cms
+2025-09-03,Wednesday,September,3,36,0,,0,Bengaluru Ganesh Utsava (Basavanagudi),1,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-ganesh-utsava-starts-on-august-27-at-basavanagudi/articleshow/123438699.cms
+2025-09-04,Thursday,September,4,36,0,,0,Bengaluru Ganesh Utsava (Basavanagudi),1,1,1,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-ganesh-utsava-starts-on-august-27-at-basavanagudi/articleshow/123438699.cms
+2025-09-05,Friday,September,5,36,0,Eid-Milad,1,Bengaluru Ganesh Utsava (Basavanagudi),1,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-ganesh-utsava-starts-on-august-27-at-basavanagudi/articleshow/123438699.cms
+2025-09-06,Saturday,September,6,36,1,,0,Bengaluru Ganesh Utsava (Basavanagudi),1,0,0,1,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-ganesh-utsava-starts-on-august-27-at-basavanagudi/articleshow/123438699.cms
+2025-09-07,Sunday,September,7,36,1,,0,,0,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-08,Monday,September,8,37,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-09,Tuesday,September,9,37,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-10,Wednesday,September,10,37,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-11,Thursday,September,11,37,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-12,Friday,September,12,37,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-13,Saturday,September,13,37,1,,0,,0,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-14,Sunday,September,14,37,1,,0,,0,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-15,Monday,September,15,38,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-16,Tuesday,September,16,38,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-17,Wednesday,September,17,38,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-18,Thursday,September,18,38,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-19,Friday,September,19,38,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-20,Saturday,September,20,38,1,,0,,0,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-21,Sunday,September,21,38,1,,0,,0,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-22,Monday,September,22,39,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-23,Tuesday,September,23,39,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-24,Wednesday,September,24,39,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-25,Thursday,September,25,39,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-26,Friday,September,26,39,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-27,Saturday,September,27,39,1,,0,,0,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-28,Sunday,September,28,39,1,,0,,0,0,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-29,Monday,September,29,40,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
+2025-09-30,Tuesday,September,30,40,0,,0,,0,1,0,0,https://www.greythr.com/wiki/acts/st-karnataka/holidays/2025/,
