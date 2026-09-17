@@ -1,0 +1,225 @@
+day,line,service_type,origin_or_route,destination,start_time,end_time,frequency
+Monday,Purple,Regular,Whitefield,,04:15,04:35,20
+Monday,Purple,Regular,Whitefield,,04:35,05:00,13
+Monday,Purple,Regular,Whitefield,,05:00,10:57,10
+Monday,Purple,Regular,Whitefield,,10:57,15:21,8
+Monday,Purple,Regular,Whitefield,,15:21,22:01,10
+Monday,Purple,Regular,Whitefield,,22:01,22:45,15
+Monday,Purple,Regular,Challaghatta,,04:15,04:35,20
+Monday,Purple,Regular,Challaghatta,,04:35,05:15,15
+Monday,Purple,Regular,Challaghatta,,05:15,06:54,11
+Monday,Purple,Regular,Challaghatta,,06:54,12:20,10
+Monday,Purple,Regular,Challaghatta,,12:20,16:45,8
+Monday,Purple,Regular,Challaghatta,,16:45,23:05,10
+Monday,Purple,Regular,Garudachar Palya,,06:53,10:55,5
+Monday,Purple,Regular,Garudachar Palya,,16:10,20:10,5
+Monday,Purple,Regular,Mysore Road,,07:22,10:20,5
+Monday,Purple,Regular,Mysore Road,,16:53,21:02,5
+Monday,Purple,Special service,Kempegowda,Whitefield,08:44,10:24,Avg of 3.3
+Monday,Purple,Special service,Mysore Road,Garudachar Palya,07:48,09:01,10
+Monday,Purple,Special service,Pattandur Agrahara,Mysore Road,15:56,19:56,5
+Tuesday-Friday,Purple,Regular,Whitefield,,05:00,05:20,20
+Tuesday-Friday,Purple,Regular,Whitefield,,05:20,10:57,10
+Tuesday-Friday,Purple,Regular,Whitefield,,10:57,15:21,8
+Tuesday-Friday,Purple,Regular,Whitefield,,15:21,22:01,10
+Tuesday-Friday,Purple,Regular,Whitefield,,22:01,22:45,15
+Tuesday-Friday,Purple,Regular,Challaghatta,,05:00,05:20,20
+Tuesday-Friday,Purple,Regular,Challaghatta,,05:20,06:00,15
+Tuesday-Friday,Purple,Regular,Challaghatta,,06:00,06:54,11
+Tuesday-Friday,Purple,Regular,Challaghatta,,06:54,12:20,10
+Tuesday-Friday,Purple,Regular,Challaghatta,,12:20,16:02,8
+Tuesday-Friday,Purple,Regular,Challaghatta,,16:02,23:05,8
+Tuesday-Friday,Purple,Regular,Garudachar Palya,,06:53,10:55,5
+Tuesday-Friday,Purple,Regular,Garudachar Palya,,16:10,20:10,5
+Tuesday-Friday,Purple,Regular,Mysore Road,,07:22,10:20,5
+Tuesday-Friday,Purple,Regular,Mysore Road,,16:53,21:02,5
+Tuesday-Friday,Purple,Special service,Kempegowda,wards Whitefield,08:44,10:24,Avg of 3.3
+Tuesday-Friday,Purple,Special service,Mysore Road,Garudachar playa,07:48,09:01,10
+Tuesday-Friday,Purple,Special service,Pattandur Agrahara,Mysore road,15:56,19:56,5
+Saturday,Purple,Regular,Whitefield,,05:00,05:20,20
+Saturday,Purple,Regular,Whitefield,,05:20,10:57,10
+Saturday,Purple,Regular,Whitefield,,10:57,15:21,8
+Saturday,Purple,Regular,Whitefield,,15:21,22:01,10
+Saturday,Purple,Regular,Whitefield,,22:01,22:45,15
+Saturday,Purple,Regular,Challaghatta,,05:00,05:20,20
+Saturday,Purple,Regular,Challaghatta,,05:20,06:00,15
+Saturday,Purple,Regular,Challaghatta,,06:00,06:54,11
+Saturday,Purple,Regular,Challaghatta,,06:54,12:20,10
+Saturday,Purple,Regular,Challaghatta,,12:20,16:45,8
+Saturday,Purple,Regular,Challaghatta,,16:45,23:05,10
+Saturday,Purple,Regular,Garudachar Palya,,06:53,10:55,5
+Saturday,Purple,Regular,Garudachar Palya,,16:10,20:10,5
+Saturday,Purple,Regular,Garudachar Palya,,18:10,20:10,5
+Saturday,Purple,Regular,Mysore Road,,07:22,10:20,5
+Saturday,Purple,Regular,Mysore Road,,17:02,21:02,5
+Saturday,Purple,Special service,Kempegowda,wards Whitefield,08:44,10:24,Avg of 3.3
+Saturday,Purple,Special service,Mysore Road,Garudacharplaya,07:48,09:01,10
+Saturday,Purple,Special service,Pattandur Agrahara,Mysore road,17:56,19:56,5
+Saturday,Purple,Special service,Baiyappanahalli,Mysore road,16:19,20:19,5
+Sunday,Purple,Regular,Whitefield,,07:00,10:33,10
+Sunday,Purple,Regular,Whitefield,,10:33,20:01,8
+Sunday,Purple,Regular,Whitefield,,20:01,22:31,10
+Sunday,Purple,Regular,Whitefield,,22:31,22:45,14
+Sunday,Purple,Regular,Challaghatta,,07:00,07:50,15
+Sunday,Purple,Regular,Challaghatta,,07:50,12:00,10
+Sunday,Purple,Regular,Challaghatta,,12:00,21:28,8
+Sunday,Purple,Regular,Challaghatta,,21:28,23:05,10
+Monday,Green,Regular,Madavara,,04:15,04:40,25
+Monday,Green,Regular,Madavara,,05:00,06:15,15
+Monday,Green,Regular,Madavara,,06:15,10:25,10
+Monday,Green,Regular,Madavara,,10:25,10:39,7
+Monday,Green,Regular,Madavara,,10:39,15:51,8
+Monday,Green,Regular,Madavara,,15:51,19:44,10
+Monday,Green,Regular,Madavara,,19:44,20:24,8
+Monday,Green,Regular,Madavara,,20:24,22:04,10
+Monday,Green,Regular,Madavara,,22:04,22:40,10
+Monday,Green,Regular,Madavara,,22:40,22:57,15
+Monday,Green,Regular,Silk Institute,,04:15,05:00,20
+Monday,Green,Regular,Silk Institute,,05:00,07:00,15
+Monday,Green,Regular,Silk Institute,,07:00,11:09,10
+Monday,Green,Regular,Silk Institute,,11:09,16:48,8
+Monday,Green,Regular,Silk Institute,,16:48,20:29,10
+Monday,Green,Regular,Silk Institute,,20:29,21:30,8
+Monday,Green,Regular,Silk Institute,,21:30,22:40,10
+Monday,Green,Regular,Silk Institute,,22:40,23:05,12.5
+Monday,Green,Regular,Nagasandra/Peenya Industry,,06:37,10:22,5
+Monday,Green,Regular,Nagasandra/Peenya Industry,,16:36,19:41,5
+Monday,Green,Regular,Yelachenahalli,,07:20,10:50,5
+Monday,Green,Regular,Yelachenahalli,,16:58,20:22,5
+Tuesday-Friday,Green,Regular,Madavara,,05:00,06:15,15
+Tuesday-Friday,Green,Regular,Madavara,,06:15,10:25,11
+Tuesday-Friday,Green,Regular,Madavara,,10:25,10:39,7
+Tuesday-Friday,Green,Regular,Madavara,,10:39,15:51,8
+Tuesday-Friday,Green,Regular,Madavara,,15:51,19:44,10
+Tuesday-Friday,Green,Regular,Madavara,,19:44,20:24,8
+Tuesday-Friday,Green,Regular,Madavara,,20:24,22:04,10
+Tuesday-Friday,Green,Regular,Madavara,,22:04,22:40,10
+Tuesday-Friday,Green,Regular,Madavara,,22:40,22:57,15
+Tuesday-Friday,Green,Regular,Silk Institute,,05:00,07:00,15
+Tuesday-Friday,Green,Regular,Silk Institute,,07:00,11:09,10
+Tuesday-Friday,Green,Regular,Silk Institute,,11:09,16:48,8
+Tuesday-Friday,Green,Regular,Silk Institute,,16:48,20:29,10
+Tuesday-Friday,Green,Regular,Silk Institute,,20:29,21:30,8
+Tuesday-Friday,Green,Regular,Silk Institute,,21:30,22:40,10
+Tuesday-Friday,Green,Regular,Silk Institute,,22:40,23:05,12.5
+Tuesday-Friday,Green,Regular,Nagasandra/Peenya Industry,,06:37,10:22,5
+Tuesday-Friday,Green,Regular,Nagasandra/Peenya Industry,,16:36,19:41,5
+Tuesday-Friday,Green,Regular,Yelachenahalli,,07:20,10:50,5
+Tuesday-Friday,Green,Regular,Yelachenahalli,,16:58,20:22,5
+Saturday,Green,Regular,Madavara,,05:00,06:15,15
+Saturday,Green,Regular,Madavara,,06:15,10:39,11
+Saturday,Green,Regular,Madavara,,10:39,16:01,8
+Saturday,Green,Regular,Madavara,,16:01,16:23,5.5
+Saturday,Green,Regular,Madavara,,16:23,19:52,11
+Saturday,Green,Regular,Madavara,,19:52,20:24,8
+Saturday,Green,Regular,Madavara,,20:24,22:04,10
+Saturday,Green,Regular,Madavara,,22:04,23:00,15
+Saturday,Green,Regular,Silk Institute,,05:00,07:00,15
+Saturday,Green,Regular,Silk Institute,,07:00,11:53,11
+Saturday,Green,Regular,Silk Institute,,11:53,16:48,8
+Saturday,Green,Regular,Silk Institute,,16:48,20:57,11
+Saturday,Green,Regular,Silk Institute,,20:57,21:30,8
+Saturday,Green,Regular,Silk Institute,,21:30,22:40,10
+Saturday,Green,Regular,Silk Institute,,22:40,23:05,12.5
+Saturday,Green,Regular,Nagasandra/Peenya Industry,,06:38,10:40,5.5
+Saturday,Green,Regular,Nagasandra/Peenya Industry,,16:13,19:47,5.5
+Saturday,Green,Regular,Yelachenahalli,,07:21,11:23,5.5
+Saturday,Green,Regular,Yelachenahalli,,16:58,20:36,5.5
+Sunday,Green,Regular,Madavara,,07:00,10:47,10
+Sunday,Green,Regular,Madavara,,10:47,20:15,8
+Sunday,Green,Regular,Madavara,,20:15,22:05,10
+Sunday,Green,Regular,Madavara,,22:05,22:29,12
+Sunday,Green,Regular,Madavara,,22:29,23:00,15
+Sunday,Green,Regular,Silk Institute,,07:00,07:58,15
+Sunday,Green,Regular,Silk Institute,,07:58,12:08,10
+Sunday,Green,Regular,Silk Institute,,12:08,21:44,8
+Sunday,Green,Regular,Silk Institute,,21:44,22:44,10
+Sunday,Green,Regular,Silk Institute,,22:44,23:05,Avg 12
+Monday,Yellow,Regular,R V Road,,05:05,05:35,30
+Monday,Yellow,Regular,R V Road,,05:35,06:00,25
+Monday,Yellow,Regular,R V Road,,06:00,06:40,20
+Monday,Yellow,Regular,R V Road,,06:40,06:56,16
+Monday,Yellow,Regular,R V Road,,06:56,07:07,11
+Monday,Yellow,Regular,R V Road,,07:07,08:27,10
+Monday,Yellow,Regular,R V Road,,08:27,09:15,8
+Monday,Yellow,Regular,R V Road,,09:15,09:29,7
+Monday,Yellow,Regular,R V Road,,09:29,10:47,6
+Monday,Yellow,Regular,R V Road,,10:47,10:55,8
+Monday,Yellow,Regular,R V Road,,10:55,11:04,9
+Monday,Yellow,Regular,R V Road,,11:04,16:34,10
+Monday,Yellow,Regular,R V Road,,16:34,16:41,7
+Monday,Yellow,Regular,R V Road,,16:41,20:11,6
+Monday,Yellow,Regular,R V Road,,20:11,21:07,8
+Monday,Yellow,Regular,R V Road,,21:07,21:57,10
+Monday,Yellow,Regular,R V Road,,21:57,22:10,13
+Monday,Yellow,Regular,R V Road,,22:10,22:40,15
+Monday,Yellow,Regular,R V Road,,22:40,23:55,25
+Monday,Yellow,Regular,Bommasandra,,05:05,05:35,30
+Monday,Yellow,Regular,Bommasandra,,05:35,06:00,20
+Monday,Yellow,Regular,Bommasandra,,06:00,06:20,20
+Monday,Yellow,Regular,Bommasandra,,06:20,07:50,10
+Monday,Yellow,Regular,Bommasandra,,07:50,08:38,8
+Monday,Yellow,Regular,Bommasandra,,08:38,08:52,7
+Monday,Yellow,Regular,Bommasandra,,08:52,10:10,6
+Monday,Yellow,Regular,Bommasandra,,10:10,10:18,8
+Monday,Yellow,Regular,Bommasandra,,10:18,15:58,10
+Monday,Yellow,Regular,Bommasandra,,15:58,19:34,6
+Monday,Yellow,Regular,Bommasandra,,19:34,20:30,8
+Monday,Yellow,Regular,Bommasandra,,20:30,21:30,10
+Monday,Yellow,Regular,Bommasandra,,21:30,22:42,12
+Tuesday-Friday,Yellow,Regular,R V Road,,06:00,06:40,20
+Tuesday-Friday,Yellow,Regular,R V Road,,06:40,06:56,16
+Tuesday-Friday,Yellow,Regular,R V Road,,06:56,07:07,11
+Tuesday-Friday,Yellow,Regular,R V Road,,07:07,08:27,10
+Tuesday-Friday,Yellow,Regular,R V Road,,08:27,09:15,8
+Tuesday-Friday,Yellow,Regular,R V Road,,09:15,09:29,7
+Tuesday-Friday,Yellow,Regular,R V Road,,09:29,10:47,6
+Tuesday-Friday,Yellow,Regular,R V Road,,10:47,10:55,8
+Tuesday-Friday,Yellow,Regular,R V Road,,10:55,11:04,9
+Tuesday-Friday,Yellow,Regular,R V Road,,11:04,16:34,10
+Tuesday-Friday,Yellow,Regular,R V Road,,16:34,16:41,7
+Tuesday-Friday,Yellow,Regular,R V Road,,16:41,20:11,6
+Tuesday-Friday,Yellow,Regular,R V Road,,20:11,21:07,8
+Tuesday-Friday,Yellow,Regular,R V Road,,21:07,21:57,10
+Tuesday-Friday,Yellow,Regular,R V Road,,21:57,22:10,13
+Tuesday-Friday,Yellow,Regular,R V Road,,22:10,22:40,15
+Tuesday-Friday,Yellow,Regular,R V Road,,22:40,23:55,25
+Tuesday-Friday,Yellow,Regular,Bommasandra,,06:00,06:20,20
+Tuesday-Friday,Yellow,Regular,Bommasandra,,06:20,07:50,10
+Tuesday-Friday,Yellow,Regular,Bommasandra,,07:50,08:38,8
+Tuesday-Friday,Yellow,Regular,Bommasandra,,08:38,08:52,7
+Tuesday-Friday,Yellow,Regular,Bommasandra,,08:52,10:10,6
+Tuesday-Friday,Yellow,Regular,Bommasandra,,10:10,10:18,8
+Tuesday-Friday,Yellow,Regular,Bommasandra,,10:18,15:58,10
+Tuesday-Friday,Yellow,Regular,Bommasandra,,15:58,19:34,6
+Tuesday-Friday,Yellow,Regular,Bommasandra,,19:34,20:30,8
+Tuesday-Friday,Yellow,Regular,Bommasandra,,20:30,21:30,10
+Tuesday-Friday,Yellow,Regular,Bommasandra,,21:30,22:42,12
+Saturday,Yellow,Regular,R V Road,,06:00,06:25,20
+Saturday,Yellow,Regular,R V Road,,06:25,07:05,20
+Saturday,Yellow,Regular,R V Road,,07:05,07:20,15
+Saturday,Yellow,Regular,R V Road,,07:20,07:31,11
+Saturday,Yellow,Regular,R V Road,,07:31,20:31,10
+Saturday,Yellow,Regular,R V Road,,20:31,22:07,12
+Saturday,Yellow,Regular,R V Road,,22:07,22:25,18
+Saturday,Yellow,Regular,R V Road,,22:25,23:05,20
+Saturday,Yellow,Regular,R V Road,,23:05,23:55,25
+Saturday,Yellow,Regular,Bommasandra,,06:00,06:40,20
+Saturday,Yellow,Regular,Bommasandra,,06:40,06:55,15
+Saturday,Yellow,Regular,Bommasandra,,06:55,19:55,10
+Saturday,Yellow,Regular,Bommasandra,,19:55,22:31,12
+Saturday,Yellow,Regular,Bommasandra,,22:31,22:42,11
+Sunday,Yellow,Regular,R V Road,,07:00,08:48,18
+Sunday,Yellow,Regular,R V Road,,08:48,09:58,14
+Sunday,Yellow,Regular,R V Road,,09:58,10:46,12
+Sunday,Yellow,Regular,R V Road,,10:46,20:56,10
+Sunday,Yellow,Regular,R V Road,,20:56,22:20,12
+Sunday,Yellow,Regular,R V Road,,22:20,22:50,15
+Sunday,Yellow,Regular,R V Road,,22:50,23:30,20
+Sunday,Yellow,Regular,R V Road,,23:30,23:55,25
+Sunday,Yellow,Regular,Bommasandra,,07:00,08:12,18
+Sunday,Yellow,Regular,Bommasandra,,08:12,09:08,14
+Sunday,Yellow,Regular,Bommasandra,,09:08,10:20,12
+Sunday,Yellow,Regular,Bommasandra,,10:20,20:20,10
+Sunday,Yellow,Regular,Bommasandra,,20:20,22:32,12
+Sunday,Yellow,Regular,Bommasandra,,22:32,22:42,10
