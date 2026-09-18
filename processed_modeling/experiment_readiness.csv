@@ -1,0 +1,16 @@
+experiment,split,raw_rows,usable_rows,dropped_rows,usable_pct
+E1_time_station,train,43824,43741,83,99.81
+E1_time_station,validation,13944,13944,0,100.0
+E1_time_station,test,17928,17845,83,99.54
+E2_time_calendar,train,43824,43741,83,99.81
+E2_time_calendar,validation,13944,13944,0,100.0
+E2_time_calendar,test,17928,17845,83,99.54
+E3_time_calendar_weather,train,43824,43741,83,99.81
+E3_time_calendar_weather,validation,13944,13944,0,100.0
+E3_time_calendar_weather,test,17928,17845,83,99.54
+E4_full_temporal,train,43824,15853,27971,36.17
+E4_full_temporal,validation,13944,13944,0,100.0
+E4_full_temporal,test,17928,17845,83,99.54
+E5_full_plus_static,train,43824,9550,34274,21.79
+E5_full_plus_static,validation,13944,8400,5544,60.24
+E5_full_plus_static,test,17928,10750,7178,59.96
